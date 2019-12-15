@@ -1,0 +1,106 @@
+baseURL = "/"
+title   = "Manuel Tansini"
+
+DefaultContentLanguage = "en"
+theme = "hugo-theme-hello-friend-ng"
+
+pygmentsCodefences = false
+pygmentsUseClasses = false
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+buildDrafts  = false
+buildFuture  = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Manuel Tansini"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "category"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Manuel Tansini"
+  keywords = "homepage, blog, science, informatics, development, programming, freelancer, amazon, projects, cloud, software"
+  images = [""]
+
+  homeSubtitle = "Amazon Marketplace Specialist // Consultant"
+
+  disableReadOtherPosts = true
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/mantans/homepage/commit/"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/m_spud/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:tansini.manuel@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/mantans/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/manueltansini001/"
+
+  [[params.social]]
+    name = "docker"
+    url  = "https://hub.docker.com/u/g0retex"
+
+[languages]
+  [languages.en]
+    subtitle  = "Homepage & Blog"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About Me"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "works"
+    name       = "Works"
+    url        = "works/"
