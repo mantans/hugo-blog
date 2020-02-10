@@ -74,6 +74,12 @@ Activity: Creation of graphic contents for the Crowfunding campaign implemented 
 
 ### International Certifications
 
+- Amazon Sponsored Ads Foundations Certification
+- Credential ID: 251103
+- Issued by: Amazon
+
+<hr />
+
 - Amazon Advertising Planning and Strategy Accreditation 
 - Credential ID: 191026 
 - Issued by: Amazon
