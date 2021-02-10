@@ -5,3 +5,5 @@ image: /images/uploads/mrrobot.jpg
 description: This is my second post Description
 ---
 This is my second post
+
+![](/images/uploads/mrrobot.jpg)
