@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
 
 [plausible]
 enable = true
-domain = "my-domain-id"
+domain = manueltansini.dev
 outbound_link = true
 file_downloads = true
 debug = false
