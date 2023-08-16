@@ -29,6 +29,18 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
+[module]
+   [[module.imports]]
+   path = "github.com/divinerites/plausible-hugo"
+
+[plausible]
+enable = true
+domain = "manueltansini.dev"
+outbound_link = true
+file_downloads = true
+debug = false
+gitstar = false
+
 [author]
   name = "Manuel Tansini"
 
