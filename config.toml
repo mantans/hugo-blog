@@ -109,10 +109,10 @@ disableHugoGeneratorInject = false
    [[module.imports]]
    path = "github.com/divinerites/plausible-hugo"
 
-[plausible]
-enable = true
-domain = manueltansini.dev
-outbound_link = true
-file_downloads = true
-debug = false
-gitstar = false
+   [plausible]
+   enable = true
+   domain = manueltansini.dev
+   outbound_link = true
+   file_downloads = true
+   debug = false
+   gitstar = false
