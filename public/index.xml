@@ -1,47 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manuel Tansini</title>
-    <link>/</link>
-    <description>Recent content on Manuel Tansini</description>
+    <title></title>
+    <link>https://manueltansini.dev/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 22:14:04 +0100</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 09:36:22 +0000</lastBuildDate>
+    <atom:link href="https://manueltansini.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My second Post</title>
+      <link>https://manueltansini.dev/posts/my-second-post/</link>
+      <pubDate>Wed, 10 Feb 2021 09:36:22 +0000</pubDate>
+      <guid>https://manueltansini.dev/posts/my-second-post/</guid>
+      <description>This is my second post</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>/posts/2019/12/my-first-post/</link>
+      <link>https://manueltansini.dev/posts/my-first-post/</link>
       <pubDate>Tue, 03 Dec 2019 22:14:04 +0100</pubDate>
-      
-      <guid>/posts/2019/12/my-first-post/</guid>
-      <description> Kubernetes Objects In Kubernetes, there are a number of objects that are abstractions of your Kubernetes system’s desired state. These objects represent your application, its networking, and disk resources – all of which together form your application. Kubernetes objects can describe:
- Which containerized applications are running on the cluster Application resources Policies that should be applied to the application  </description>
+      <guid>https://manueltansini.dev/posts/my-first-post/</guid>
+      <description>Kubernetes Objects In Kubernetes, there are a number of objects that are abstractions of your Kubernetes system’s desired state. These objects represent your application, its networking, and disk resources – all of which together form your application. Kubernetes objects can describe:&#xA;Which containerized applications are running on the cluster&#xA;Application resources&#xA;Policies that should be applied to the application</description>
     </item>
-    
     <item>
       <title>Works</title>
-      <link>/works/</link>
+      <link>https://manueltansini.dev/works/</link>
       <pubDate>Sat, 02 Feb 2019 11:34:00 +0100</pubDate>
-      
-      <guid>/works/</guid>
-      <description>Positions Held Amazon Account Manager - Kiarenza Funny Dreams s.r.l. [Sportswear,Collectibles, Digital Printing, Garment Printing ITA] Full time - 01/12/2015 - Present - Pescara (PE). Italy
- Planning and content management of Amazon seller channels Monitoring SEO activities on Amazon PPC campaign management on Sponsored Product and Sponsored Brand Monitoring and optimization of day-by-day campaigns on Amazon Analysis of the main search keys for the reference markets Amazon FBA Inventory Management, Shipments and Monitoring  Activities: Management of the flow of daily activities regarding Amazon European Marketplaces (it, de, es, fr, uk) and American (com, ca, mx) within a team of 4 people, Sponsored Product campaigns tracking and maintenance of a maximum ACOS to 20% over a period of two years.</description>
+      <guid>https://manueltansini.dev/works/</guid>
+      <description>Positions Held Amazon Account Manager - Kiarenza Funny Dreams s.r.l. [Sportswear,Collectibles, Digital Printing, Garment Printing ITA] Full time - 01/12/2015 - Present - Pescara (PE). Italy&#xA;Planning and content management of Amazon seller channels Monitoring SEO activities on Amazon PPC campaign management on Sponsored Product and Sponsored Brand Monitoring and optimization of day-by-day campaigns on Amazon Analysis of the main search keys for the reference markets Amazon FBA Inventory Management, Shipments and Monitoring Activities: Management of the flow of daily activities regarding Amazon European Marketplaces (it, de, es, fr, uk) and American (com, ca, mx) within a team of 4 people, Sponsored Product campaigns tracking and maintenance of a maximum ACOS to 20% over a period of two years.</description>
     </item>
-    
     <item>
       <title>About Me</title>
-      <link>/about/</link>
+      <link>https://manueltansini.dev/about/</link>
       <pubDate>Sat, 19 Jan 2019 02:42:30 +0100</pubDate>
-      
-      <guid>/about/</guid>
-      <description> Hi, I am Manuel Tansini.
-I am an Amazon Marketplace Specialist and Tech Nerd Padawan. I love new and exciting projects. Contact me if you think I can help you.
-Actually i am based in Pescara, Italy. I have a permanent job as Amazon Account Manager and PPC Architect for local e-commerce agency, I also offer freelance consulting services for companies in Italy and abroad
-Book Recommendations  Gene Kim, Jez Humble, Patrick Debois &amp;amp; John Willis: DevOps Handbook Brendan Burns, Joe Beda &amp;amp; Kelsey Hightower: Kubernetes Up &amp;amp; Running Jeff Nickoloff, Stephen Kuenzli: Docker In Action Marijn Haverbeke: Eloquent Javascript  </description>
+      <guid>https://manueltansini.dev/about/</guid>
+      <description>Hi, I am Manuel Tansini.&#xA;I am an Amazon Marketplace Specialist and Tech Nerd Padawan. I love new and exciting projects. Contact me if you think I can help you.&#xA;Actually i am based in Pescara, Italy. I have a permanent job as Amazon Account Manager and PPC Architect for local e-commerce agency, I also offer freelance consulting services for companies in Italy and abroad&#xA;Book Recommendations Gene Kim, Jez Humble, Patrick Debois &amp;amp; John Willis: DevOps Handbook Brendan Burns, Joe Beda &amp;amp; Kelsey Hightower: Kubernetes Up &amp;amp; Running Jeff Nickoloff, Stephen Kuenzli: Docker In Action Marijn Haverbeke: Eloquent Javascript </description>
     </item>
-    
   </channel>
 </rss>

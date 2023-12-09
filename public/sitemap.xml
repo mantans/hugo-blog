@@ -1,42 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/posts/2019/12/my-first-post/</loc>
-    <lastmod>2019-12-08T12:17:19+01:00</lastmod>
+    <loc>https://manueltansini.dev/</loc>
+    <lastmod>2021-02-10T09:36:22+00:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/posts/my-second-post/</loc>
+    <lastmod>2021-02-10T09:36:22+00:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/posts/</loc>
+    <lastmod>2021-02-10T09:36:22+00:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/posts/my-first-post/</loc>
+    <lastmod>2019-12-03T22:14:04+01:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/works/</loc>
+    <lastmod>2019-02-02T11:34:00+01:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/about/</loc>
+    <lastmod>2019-01-19T02:42:30+01:00</lastmod>
+  </url><url>
+    <loc>https://manueltansini.dev/categories/</loc>
+  </url><url>
+    <loc>https://manueltansini.dev/tags/</loc>
   </url>
-  
-  <url>
-    <loc>/works/</loc>
-    <lastmod>2019-12-09T01:05:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-12-12T13:32:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-12-08T12:17:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-12-08T12:17:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
